@@ -1,6 +1,6 @@
 # PYDLE
 #### Video Demo
-[![](https://i9.ytimg.com/vi_webp/D83o551FARc/mqdefault.webp?v=65981c18&sqp=CMi34KwG&rs=AOn4CLAw907s2N5KyFdeRUmG_y39XrD_yQ)](https://www.youtube.com/watch?v=D83o551FARc)
+[Video](https://www.youtube.com/watch?v=D83o551FARc)
 ---
 #### Description
 Pydle is a recreation of the popular New York Times game Wordle. In Pydle, players must find a five-letter word within six attempts. The word they are looking for can be a noun, a verb or even an adjective. Unlike Wordle, the words in Pydle can also be in the plural form. In addition, players can guess any combination of five letters containing letters from A to Z.
